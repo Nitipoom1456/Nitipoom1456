@@ -8,6 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitipoom1456&theme=tokyonight&layout=compact" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Nitipoom1456)
+![visitors](https://komarev.com/ghpvc/?username=Nitipoom1456)
 
 ---
